@@ -12,6 +12,8 @@ const products = [
   { id: '5', title: "Detoks", price: 1370000, description: "Ozdiradi" },
   { id: '6', title: "Detoks", price: 1370000, description: "Ozdiradi" },
   { id: '7', title: "Detoks", price: 1370000, description: "Ozdiradi" },
+  { id: '8', title: "Detoks", price: 1370000, description: "Ozdiradi" },
+  { id: '9', title: "Detoks", price: 1370000, description: "Ozdiradi" },
 ]
 
 
